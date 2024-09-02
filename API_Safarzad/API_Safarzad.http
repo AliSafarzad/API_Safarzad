@@ -1,0 +1,6 @@
+@API_Safarzad_HostAddress = http://localhost:5296
+
+GET {{API_Safarzad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
